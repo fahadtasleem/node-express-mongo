@@ -1,5 +1,10 @@
 {
-    "name": "fahad",
+    "name": "node-express-mongo",
+    "version": "1.0",
+    "author": {
+      "name": "fahad tasleem",
+      "url": "https://github.com/fahadtasleem"  
+    },
     "main": "server.js",
     "dependencies": {
         "body-parser": "^1.18.3",
