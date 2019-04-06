@@ -1,9 +1,19 @@
 {
     "name": "node-express-mongo",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "keywords": ["mongo","express","node","mean"],
+    "description": "Node express mongo application boilerplate.",
+    "license": "MIT",
     "author": {
       "name": "fahad tasleem",
       "url": "https://github.com/fahadtasleem"  
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fahadtasleem/node-express-mongo.git"
+    },
+    "bugs": {
+        "url": "https://github.com/fahadtasleem/node-express-mongo/issues"
     },
     "main": "server.js",
     "dependencies": {
